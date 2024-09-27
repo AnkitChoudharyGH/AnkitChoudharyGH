@@ -1,5 +1,5 @@
 <p align="center">
-  <h2><b>Heyy! 👋 I am Ankit Kumar Choudhary</b><h2><br>
+  <b>Heyy! 👋 I am Ankit Kumar Choudhary</b><br>
 _____________________________________________________________________________________________________
 <br>
   
