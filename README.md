@@ -1,5 +1,6 @@
                 #Heyy! 👋 I am Ankit Kumar Choudhary
 
+![Screenshot 2024-09-27 195747](https://github.com/user-attachments/assets/96829327-2d0f-4c4d-996f-603b05f4458a)
 <!--
 **AnkitChoudharyGH/AnkitChoudharyGH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
