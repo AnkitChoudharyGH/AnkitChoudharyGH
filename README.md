@@ -1,7 +1,7 @@
                 #Heyy! 👋 I am Ankit Kumar Choudhary
 
 ![Screenshot 2024-09-27 195846](https://github.com/user-attachments/assets/f28459e4-38ca-4828-952c-fdb6a75cc332) ![Screenshot 2024-09-27 195819](https://github.com/user-attachments/assets/d725bba7-ba44-4f51-bbad-b61a55d02e56)
-
+![Screenshot 2024-09-27 195846](https://github.com/user-attachments/assets/f28459e4-38ca-4828-952c-fdb6a75cc332) with <img src="(https://github.com/user-attachments/assets/f28459e4-38ca-4828-952c-fdb6a75cc332)" width="100" >
 
 
 <!--
