@@ -6,7 +6,7 @@ Currently Btech Final year undergrad at JSSATE, Noida.
 
 
 <p align ="left">
-#Link:
+Link:
   <br>
   <a href="https://www.linkedin.com/in/ankit-choudhary-353099282/">
     <img src="https://github.com/user-attachments/assets/0ab127cf-2aa3-4e2a-ada9-f8da273592b3" data-canonical-src="(https://github.com/user-attachments/assets/0ab127cf-2aa3-4e2a-ada9-f8da273592b3)" width="30" height="30" />
@@ -14,7 +14,7 @@ Currently Btech Final year undergrad at JSSATE, Noida.
 </p>
 <br>
 
-<b>#Languages and Tools:</b><br>
+<b>Languages and Tools:</b><br>
 <p margin="10px">
   <img src="https://github.com/user-attachments/assets/0ce6f69a-43ca-44d9-83ab-2e0848cef696" data-canonical-src="(https://github.com/user-attachments/assets/0ce6f69a-43ca-44d9-83ab-2e0848cef696)" width="50" height="50" />
   <img src="https://github.com/user-attachments/assets/130e00e4-f3e7-4618-a3e7-0974d05ec98e" data-canonical-src="(https://github.com/user-attachments/assets/130e00e4-f3e7-4618-a3e7-0974d05ec98e)" width="50" height="50" />
