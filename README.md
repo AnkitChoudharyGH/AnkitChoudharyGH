@@ -1,38 +1,24 @@
-<p align="center">
-  <b>Heyy! 👋 I am Ankit Kumar Choudhary</b><br>
-_____________________________________________________________________________________________________
-<br>
-  
-<b>Currently Btech Final year undergrad at JSSATE, Noida.</b>
+<h1 align="center">Hi 👋, I'm Ankit Kumar Choudhary</h1>
+<h3 align="center">Aspiring Software Developer</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitchoudharygh&label=Profile%20views&color=0e75b6&style=flat" alt="ankitchoudharygh" /> </p>
 
-<p align ="left">
-<b>Link:</b>
-  <br>
-  <a href="https://www.linkedin.com/in/ankit-choudhary-353099282/">
-    <img src="https://github.com/user-attachments/assets/0ab127cf-2aa3-4e2a-ada9-f8da273592b3" data-canonical-src="(https://github.com/user-attachments/assets/0ab127cf-2aa3-4e2a-ada9-f8da273592b3)" width="30" height="30" />
-  </a>
+- 💬 Ask me about **C++, MySQL, Frontend WebDev**
+
+- 📫 How to reach me **choudharyankit070@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/ankit-choudhary-353099282" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankit-choudhary-353099282" height="30" width="40" /></a>
 </p>
-<br>
 
-<b>Languages and Tools:</b><br>
-<p margin="10px">
-  <img src="https://github.com/user-attachments/assets/0ce6f69a-43ca-44d9-83ab-2e0848cef696" data-canonical-src="(https://github.com/user-attachments/assets/0ce6f69a-43ca-44d9-83ab-2e0848cef696)" width="50" height="50" />
-  <img src="https://github.com/user-attachments/assets/130e00e4-f3e7-4618-a3e7-0974d05ec98e" data-canonical-src="(https://github.com/user-attachments/assets/130e00e4-f3e7-4618-a3e7-0974d05ec98e)" width="50" height="50" />
-  <img src="https://github.com/user-attachments/assets/b9932edd-7982-4c4f-a0aa-b5d34d067c43" data-canonical-src="(https://github.com/user-attachments/assets/b9932edd-7982-4c4f-a0aa-b5d34d067c43)" width="50" height="50" />
-  <img src="https://github.com/user-attachments/assets/4cb7095b-7f78-4ea6-b498-0338fb3cf426" data-canonical-src="(https://github.com/user-attachments/assets/4cb7095b-7f78-4ea6-b498-0338fb3cf426)" width="50" height="50" />
-  <img src="https://github.com/user-attachments/assets/57af85fc-98b8-4e6d-a011-05fc1d98b011" data-canonical-src="(https://github.com/user-attachments/assets/57af85fc-98b8-4e6d-a011-05fc1d98b011)" width="50" height="50" />
-  <img src="https://github.com/user-attachments/assets/00b646ac-1246-48b5-aba0-2badb9fb9fcf" data-canonical-src="(https://github.com/user-attachments/assets/00b646ac-1246-48b5-aba0-2badb9fb9fcf)" width="50" height="50" />
-  <img src="https://github.com/user-attachments/assets/2af4db76-7984-4765-891a-fd348188f707" data-canonical-src="(https://github.com/user-attachments/assets/2af4db76-7984-4765-891a-fd348188f707)" width="50" height="50" />
-  <img src="https://github.com/user-attachments/assets/f37cb680-0700-4d7f-9921-d4e7216f7a34" data-canonical-src="(https://github.com/user-attachments/assets/f37cb680-0700-4d7f-9921-d4e7216f7a34)" width="50" height="50" />
-</p>
-<br>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitchoudharygh&show_icons=true&locale=en&layout=compact" alt="ankitchoudharygh" /></p>
 
-  <img src="https://github.com/user-attachments/assets/bb34aeac-1d4e-4abb-80c3-57f874a877f1" data-canonical-src="(https://github.com/user-attachments/assets/bb34aeac-1d4e-4abb-80c3-57f874a877f1)" width="600" />
-  <img src="https://github.com/user-attachments/assets/db9508c7-3331-464b-8316-cb2434829cfa" data-canonical-src="(https://github.com/user-attachments/assets/db9508c7-3331-464b-8316-cb2434829cfa)" width="400" />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitchoudharygh&show_icons=true&locale=en" alt="ankitchoudharygh" /></p>
 
-</p>
 
 
 
