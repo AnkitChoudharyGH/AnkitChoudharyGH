@@ -1,5 +1,5 @@
 <p align="center">
-  <b>Heyy! 👋 I am Ankit Kumar Choudhary</b>
+  <b>Heyy! 👋 I am Ankit Kumar Choudhary</b><br>
 _____________________________________________________________________________________________________
 
   [<img src="https://github.com/user-attachments/assets/bb34aeac-1d4e-4abb-80c3-57f874a877f1" data-canonical-src="(https://github.com/user-attachments/assets/bb34aeac-1d4e-4abb-80c3-57f874a877f1)" width="600" />]
