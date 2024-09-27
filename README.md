@@ -2,10 +2,11 @@
   <b>Heyy! 👋 I am Ankit Kumar Choudhary</b><br>
 _____________________________________________________________________________________________________
 <br>
-Link
+
 
 <p align ="left">
-  <a src="https://www.linkedin.com/in/ankit-choudhary-353099282/">
+Link
+  <a href="https://www.linkedin.com/in/ankit-choudhary-353099282/">
     <img src="https://github.com/user-attachments/assets/0ab127cf-2aa3-4e2a-ada9-f8da273592b3" data-canonical-src="(https://github.com/user-attachments/assets/0ab127cf-2aa3-4e2a-ada9-f8da273592b3)" width="30" height="30" />
   </a>
 </p>
