@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/user-attachments/assets/f071e983-2b8f-48dd-9e7e-010b271f59dd)](https://rishavchanda.io)
+[![MasterHead](https://github.com/user-attachments/assets/7a08d5cd-5a0e-40e3-b97c-094064e5e217)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Ankit Kumar Choudhary</h1>
 <h3 align="center">Aspiring Software Developer</h3>
