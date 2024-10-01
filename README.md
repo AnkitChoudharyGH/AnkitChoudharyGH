@@ -4,9 +4,8 @@
 <h3 align="center">Aspiring Software Developer</h3>
 
 
-<b>- Ask me anything about - **C++, MySQL, React** </b>
-
-<b>- 📫Contact me at **choudharyankit070@gmail.com**<b>
+<b> - Ask me anything about - **C++, MySQL, React** </b>
+<b> - Contact me at **choudharyankit070@gmail.com**<b>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
