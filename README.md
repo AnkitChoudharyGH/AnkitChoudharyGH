@@ -4,9 +4,9 @@
 <h3 align="center">Aspiring Software Developer</h3>
 
 
-- **C++, MySQL, Frontend WebDev**
+<b> Ask me anything about - **C++, MySQL, React** </b>
 
-- 📫**choudharyankit070@gmail.com**
+<b>- 📫Contact me at **choudharyankit070@gmail.com**<b>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -30,7 +30,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitchoudharygh&show_icons=true&locale=en&layout=compact" alt="ankitchoudharygh" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitchoudharygh&show_icons=true&locale=en" alt="ankitchoudharygh" /></p>
 
 
 
